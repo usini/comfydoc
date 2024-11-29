@@ -25,6 +25,8 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\bin
 
 # Python
 
+Attention : Try fix a tendance à annuler les modifications!!
+
 ## Activer python Comfyui
 cd ComfyUI_windows_portable\python_embeded\Scripts
 activate
