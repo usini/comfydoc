@@ -64,3 +64,13 @@ https://github.com/danielgatis/rembg
 ```
 python -m pip install rembg[gpu]
 ```
+# Méchant NINJA!
+https://github.com/ninja-build/ninja/releases
+RuntimeError: Ninja is required to load C++ extensions
+
+Copier dans un dossier accessible à PATH
+```
+ninja --version
+```
+
+
