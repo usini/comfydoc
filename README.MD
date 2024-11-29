@@ -76,7 +76,13 @@ ninja --version
 # TORCH_CUDA_ARCH_LIST is not set
 https://developer.nvidia.com/cuda-gpus
 Geforce RTX 2070	- 7.5
-GeForce RTX 4060	- 8.9
+GeForce RTX 4060 TI	- 8.9
+
+Ajouter dans le script bat
+
+```
+set TORCH_CUDA_ARCH_LIST=8.9
+```
 
 # Plotly
 https://plotly.com/python/
