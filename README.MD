@@ -27,10 +27,10 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\bin
 
 Attention : Try fix a tendance à annuler les modifications!!
 
-## Activer python Comfyui
-cd ComfyUI_windows_portable\python_embeded\Scripts
-activate
-
+## Utiliser le python Comfyui
+```
+cd ComfyUI_windows_portable\python_embeded
+```
 
 # TORCH 2.5.1cu124
 https://pytorch.org/get-started/locally/
