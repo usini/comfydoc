@@ -73,4 +73,14 @@ Copier dans un dossier accessible à PATH
 ninja --version
 ```
 
+# TORCH_CUDA_ARCH_LIST is not set
+https://developer.nvidia.com/cuda-gpus
+Geforce RTX 2070	- 7.5
+GeForce RTX 4060	- 8.9
 
+# Plotly
+https://plotly.com/python/
+Juste un warning mais bon...
+```
+python -m pip install plotly
+```
